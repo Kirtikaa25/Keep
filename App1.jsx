@@ -3,9 +3,6 @@ import Heading from "./Header";
 import Note from "./Note";
 import Footer from "./Footer";
 
-function App(){
- 
-}
 function App() {
   return (
     <div>
