@@ -1,13 +1,14 @@
 import React from "react";
-import Heading from "./Heading";
- import Footer from "./Footer";
-import Note from "./Note" 
+import Heading from "./Header";
+import Note from "./Note";
+import Footer from "./Footer";
+
 function App(){
-    return (
+    return(
         <div>
-            <Heading />
-            <Note />
-            <Footer />
+        <Heading/>
+        <Note/>
+        <Footer/>
         </div>
     )
 }
