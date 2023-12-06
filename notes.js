@@ -13,5 +13,7 @@ const notes = [
   }
   {
   key:3,
+  title: "Arrays",
+  content:  
     }
 ]
