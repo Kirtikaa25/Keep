@@ -28,7 +28,5 @@ const notes = [
     content: "Eat more sushi"
   }
 ];
-
+ export default notes
  
-    }
-]
