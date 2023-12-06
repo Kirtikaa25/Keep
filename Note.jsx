@@ -1,8 +1,12 @@
-import React from "react";
-function Note(){
-    return <div className="note">
-        <h1>This is the title of the note</h1>
-        <p>This is the content of the note</p>
+iimport React from "react";
+
+function Note(props) {
+  return (
+    <div className="note">
+      <h1>{props.title}</h1>
+      <p>{props.content}</p>
     </div>
+  );
 }
+
 export default Note;
