@@ -68,4 +68,6 @@
 form.create-note {
   position: relative;
   width: 480px;
+  margin: 30px auto 20px auto;
+  background: #fff;
 }
