@@ -65,4 +65,7 @@
   cursor: pointer;
   outline: none;
 }
-  
+form.create-note {
+  position: relative;
+  width: 480px;
+}
