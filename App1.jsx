@@ -4,9 +4,7 @@ import Note from "./Note";
 import Footer from "./Footer";
 
 function App(){
-    return(
-     
-    )
+ 
 }
 function App() {
   return (
