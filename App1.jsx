@@ -5,11 +5,7 @@ import Footer from "./Footer";
 
 function App(){
     return(
-        <div>
-        <Heading/>
-        <Note/>
-        <Footer/>
-        </div>
+     
     )
 }
 function App() {
