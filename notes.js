@@ -11,4 +11,7 @@ const notes = [
     content:
       "How to keep a programmer in the shower forever. Show him the shampoo bottle instructions: Lather. Rinse. Repeat."
   }
+  {
+  key:3,
+    }
 ]
