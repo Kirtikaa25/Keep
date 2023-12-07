@@ -1,2 +1,2 @@
 # Keep
-Notes app by using react modules
+NoteStack, a sleek and efficient note-taking app crafted with React! 
