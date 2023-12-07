@@ -76,3 +76,5 @@ form.create-note {
 }
 form.create-note input,
 form.create-note textarea {
+    width: 100%;
+}
