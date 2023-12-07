@@ -1,9 +1,15 @@
 import React from "react";
-function Heading(){
-    return <header >
-       <h1>Keep</h1>
-       
+
+
+function Header() {
+  return (
+    <header>
+      <h1>
+        <HighlightIcon />
+        Keeper
+      </h1>
     </header>
-   
+  );
 }
-export default Heading;
+
+export default Header;
