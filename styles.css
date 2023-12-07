@@ -86,4 +86,5 @@ form.create-note textarea {
 }
 form.create-note button {
     position: absolute;
+    right: 18px;
 }
