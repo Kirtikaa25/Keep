@@ -81,4 +81,6 @@ form.create-note textarea {
     padding: 4px;
     outline: none;
     font-size: 1.2em;
+    font-family: inherit;
+    resize: none;
 }
